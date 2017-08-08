@@ -22,7 +22,7 @@
     "hiredis": ">=0.1.14",
     "hubot": ">=2.4.6",
     "imessagemodule": "0.1.7",
-    "redis": ">=0.7.2",
+    "redis": ">=2.8.0",
     "sqlite3": "^3.0.4"
   },
   "engines": {
