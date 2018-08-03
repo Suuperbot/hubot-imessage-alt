@@ -20,7 +20,7 @@
   "dependencies": {
     "applescript": "rorito/node-applescript",
     "hiredis": ">=0.1.14",
-    "hubot": ">=2.4.6",
+    "hubot": ">=3.1.1",
     "imessagemodule": "0.1.7",
     "redis": ">=0.7.2",
     "sqlite3": "^3.0.4"
