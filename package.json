@@ -21,7 +21,7 @@
     "applescript": "rorito/node-applescript",
     "hiredis": ">=0.1.14",
     "hubot": ">=2.4.6",
-    "imessagemodule": "0.1.7",
+    "imessagemodule": "0.2.3",
     "redis": ">=0.7.2",
     "sqlite3": "^3.0.4"
   },
