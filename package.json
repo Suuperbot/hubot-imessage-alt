@@ -23,7 +23,7 @@
     "hubot": ">=2.4.6",
     "imessagemodule": "0.1.7",
     "redis": ">=0.7.2",
-    "sqlite3": "^3.0.4"
+    "sqlite3": "^4.1.0"
   },
   "engines": {
     "node": ">= 0.8.x"
